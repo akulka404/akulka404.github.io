@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects & Experiences
+title: What do I do?
 ---
 
 {% for tag in site.tags %}
