@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog Archive
+title: Projects & Experiences
 ---
 
 {% for tag in site.tags %}
